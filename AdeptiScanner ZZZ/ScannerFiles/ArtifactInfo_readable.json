@@ -1,5 +1,5 @@
 {
-    "DataVersion": "2.0",
+    "DataVersion": "2.2",
   "Sets": [
     {
       "name": {
@@ -99,6 +99,16 @@
     {
       "name": {
         "King of the Summit": "KingOfTheSummit"
+      }
+    },
+    {
+      "name": {
+        "Dawn's Bloom'": "DawnsBloom"
+      }
+    },
+    {
+      "name": {
+        "Moonlight Lullaby": "MoonlightLullaby"
       }
     }
   ],
