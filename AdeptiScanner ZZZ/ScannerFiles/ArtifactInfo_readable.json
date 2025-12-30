@@ -110,7 +110,17 @@
       "name": {
         "Moonlight Lullaby": "MoonlightLullaby"
       }
-    }
+    },
+    {
+      "name": {
+        "White Water Ballad": "WhiteWaterBallad"
+      }
+    },
+    {
+      "name": {
+        "Shining Aria": "ShiningAria"
+      }
+    },
   ],
     "DiscTiers": [
         {
