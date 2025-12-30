@@ -1,5 +1,5 @@
 {
-    "DataVersion": "2.2",
+  "DataVersion": "2.5",
   "Sets": [
     {
       "name": {
@@ -109,6 +109,16 @@
     {
       "name": {
         "Moonlight Lullaby": "MoonlightLullaby"
+      }
+    },
+    {
+      "name": {
+        "White Water Ballad": "WhiteWaterBallad"
+      }
+    },
+    {
+      "name": {
+        "Shining Aria": "ShiningAria"
       }
     }
   ],
