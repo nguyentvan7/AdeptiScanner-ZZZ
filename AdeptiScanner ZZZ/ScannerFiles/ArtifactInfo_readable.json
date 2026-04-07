@@ -1,5 +1,5 @@
 {
-  "DataVersion": "2.5",
+  "DataVersion": "2.7",
   "Sets": [
     {
       "name": {
@@ -119,6 +119,16 @@
     {
       "name": {
         "Shining Aria": "ShiningAria"
+      }
+    },
+    {
+      "name": {
+        "Bunny in Wonderland'": "BunnyInWonderland"
+      }
+    },
+    {
+      "name": {
+        "Notes From the Chained": "NotesFromTheChained"
       }
     }
   ],
